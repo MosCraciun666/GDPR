@@ -1,5 +1,5 @@
 [Also see the Terms and Conditions here](https://github.com/MosCraciun666/GDPR/blob/main/SteadiPaceTerms.md)
-By continuing to use the app, you agree
+
 
 SteadiPace Privacy Policy
 Your privacy matters. Protect yourself with a secure VPN router.
