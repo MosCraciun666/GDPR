@@ -8,7 +8,7 @@ in a legally binding way. Capitalized words are defined in the relevant dedicate
 
 The User must read this document carefully.
 
-Although the entire contractual relationship relating to these Products is entered into solely by the Owner and Users, Users acknowledge and agree that, where this Application has been provided to them via the Apple App Store, Apple may enforce these Terms as a third-party beneficiary.
+Although the entire contractual relationship relating to these Products is entered into solely by the Owner and Users, Users acknowledge and agree that, where this Application has been provided to them via the Apple App Store or Google Play Store, Apple or Google may enforce these Terms as a third-party beneficiary. 
 
 This Application is provided by:
 
@@ -87,11 +87,30 @@ Subscriptions allow Users to receive a Product continuously or regularly over ti
 
 Subscriptions handled via Apple Account
 
-Users may subscribe to a Product using the Apple Account associated with their Apple App Store account by using the relevant process on this Application. When doing so, Users acknowledge and accept that
+Users may subscribe to a Product using the Apple Account associated with their Apple App Store account by using the relevant process on this Application. When doing so, Users acknowledge and accept that:
+
 any payment due shall be charged to their Apple Account;
+
 subscriptions are automatically renewed for the same duration unless the User cancels at least 24 hours before the current period expires;
+
 any and all fees or payments due for renewal will be charged within 24-hours before the end of the current period;
+
 subscriptions can be managed or cancelled in the Users’ Apple App Store account settings.
+
+The above shall prevail upon any conflicting or diverging provision of these Terms.
+
+Subscriptions handled via Google Play
+
+Users may subscribe to a Product using their Google Play account by following the relevant process in the Application. By subscribing, Users acknowledge and accept that:
+
+Any payment due will be charged to their Google Play account;
+
+Subscriptions are automatically renewed for the same duration unless the User cancels at least 24 hours before the current period expires;
+
+Any fees or payments due for renewal will be charged within 24 hours before the end of the current period;
+
+Subscriptions can be managed or cancelled in the Users' Google Play account settings.
+
 The above shall prevail upon any conflicting or diverging provision of these Terms.
 
 Termination
