@@ -1,4 +1,4 @@
-** VEZI! ca mai ai cateva de onboarding si review/feedback **
+**VEZI! ca mai ai cateva de onboarding si review/feedback**
 la inceput:
 No sensitive data is collected, including the user's weight or any personally identifiable data. Only anonymized interactions are collected, which include: button presses, running stats (distance, time, speed of runs), user preferences (other than weight) and run settings (minimum and maximum speeds). Also, Firebase Crashlytics collects crash data anonymously.
 
