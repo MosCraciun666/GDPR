@@ -86,7 +86,7 @@ behavior.
 **Google Analytics for Firebase (for apps) (Google LLC)**
 
 Google Analytics for Firebase (for apps) or Firebase Analytics is an analytics service provided by Google LLC. **In order to
-understand Google's use of Data, consult Google's partner policy**.
+understand Google's use of Data, consult Google's partner policy**. https://www.google.com/policies/privacy/partners/
 
 Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote
 Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the
@@ -99,7 +99,7 @@ mobile phones or by following the instructions in other Firebase related section
 
 Personal Data processed: device information; number of sessions; operating systems; session duration; Trackers; Usage Data.
 
-Place of processing: United States – Privacy Policy.
+Place of processing: United States – Privacy Policy. https://business.safety.google/privacy/
 
 ### Displaying content from external platforms
 
@@ -115,7 +115,7 @@ kind on its pages.
 
 Personal Data processed: Trackers; Usage Data.
 
-Place of processing: United States – Privacy Policy.
+Place of processing: United States – Privacy Policy. https://business.safety.google/privacy/
 
 ### Handling payments
 
@@ -132,7 +132,7 @@ and their purchase history and can be used to keep track of User behavior.
 
 Personal Data processed: Trackers; Usage Data.
 
-Place of processing: United States – Privacy Policy – Opt Out.
+Place of processing: United States – Privacy Policy https://www.revenuecat.com/privacy – Opt Out mailto:mailtocompliance@revenuecat.com
 
 
 ### Hosting and backend infrastructure
@@ -149,7 +149,7 @@ Firebase Cloud Firestore is a hosting and backend service provided by Google LLC
 
 Personal Data processed: Usage Data; various types of Data as specified in the privacy policy of the service.
 
-Place of processing: United States – Privacy Policy.
+Place of processing: United States – Privacy Policy. https://policies.google.com/privacy
 
 ## Further information about the processing of Personal Data
 
@@ -169,7 +169,7 @@ must be aware that disabling push notifications may negatively affect the utilit
 
 ## Cookie Policy
 
-This Application uses Trackers. To learn more, Users may consult the Cookie Policy.
+This Application uses Trackers. To learn more, Users may consult the Cookie Policy. https://www.iubenda.com/privacy-policy/91741631/cookie-policy
 
 ## Further Information for Users
 
